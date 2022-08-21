@@ -11,3 +11,5 @@ Sprint 1
                                -Hernan David Quijano Gonzalez
                                -Hermes Duvan Martinez Zambrano
 
+"Nunca confíes en un ordenador que no puedas lanzar por una ventana"
+-- Steve Wozniak
