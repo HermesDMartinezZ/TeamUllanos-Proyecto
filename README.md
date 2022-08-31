@@ -4,10 +4,10 @@
 Desarrollar un aplicativo web que permita gestionar los ingresos y egresos de una empresa, y a su vez permitir que el gerente tome decisiones sobre la situación financiera.
 
 ### Historias de Usuario
-![image](Historias-de-usuario.png)
+![image](https://github.com/HermesDMartinezZ/TeamUllanos-Proyecto/blob/main/Img/Historias-de-usuario.png?raw=true)
 
 ### Diagrama Entidad Relación
-<iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FszHaeruyqDymBYHlZAgO2t%2FDiagrama-Entidad-Relaci%25C3%25B3n%3Fnode-id%3D6%253A2" allowfullscreen></iframe>
+https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FszHaeruyqDymBYHlZAgO2t%2FDiagrama-Entidad-Relaci%25C3%25B3n%3Fnode-id%3D6%253A2" allowfullscreen
 
 ## Sprint 1
 
