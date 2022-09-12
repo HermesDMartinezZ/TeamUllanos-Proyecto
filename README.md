@@ -4,14 +4,17 @@
 Desarrollar un aplicativo web que permita gestionar los ingresos y egresos de una empresa, y a su vez permitir que el gerente tome decisiones sobre la situación financiera.
 
 ### Historias de Usuario
-![image](Historias-de-usuario.png)
+![Image text](https://github.com/HermesDMartinezZ/TeamUllanos-Proyecto/blob/main/Img/Historias-de-usuario.png)
 
 ### Diagrama Entidad Relación
-<iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FszHaeruyqDymBYHlZAgO2t%2FDiagrama-Entidad-Relaci%25C3%25B3n%3Fnode-id%3D6%253A2" allowfullscreen></iframe>
+
+https://www.figma.com/file/szHaeruyqDymBYHlZAgO2t?embed_host=share&kind=&node-id=6%3A2&viewer=1
+
+<img src="https://www.figma.com/file/szHaeruyqDymBYHlZAgO2t?embed_host=share&kind=&node-id=6%3A2&viewer=1"> <img/>
 
 ## Sprint 1
 
-![image](https://user-images.githubusercontent.com/111668691/185774321-5a801d5d-083f-4779-9402-f4f6a91659d8.png)
+![Image text](https://user-images.githubusercontent.com/111668691/185774321-5a801d5d-083f-4779-9402-f4f6a91659d8.png)
 
 
 - Asignacion de roles por el scrum master
